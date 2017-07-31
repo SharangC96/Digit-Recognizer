@@ -1,7 +1,7 @@
 # Digit-Recognizer
 In this project I have implemented a deep convolutioal neural network for recognizing hand written digits using the MNIST dataset provided on Kaggle.This model has been implemented using TensorFlow, an open source software library for numerical computation using data flow graphs.
 
-To train the model run the file Digit_Recognizer_train.ipynb, this will create a trained_params folder in the directory which can be used later to restore the wieghts.
+To train the model run the file Digit_Recognizer_train.ipynb, this will train the model and create a trained_params folder in the directory which can be used later to restore the wieghts.
 
 To find the accuracy of the model on the local validation data run the file Digit_Recognizer_test.ipynb.
 
